@@ -1,0 +1,1 @@
+# giyim_stok_yonetim
